@@ -31,11 +31,11 @@
   },
   "license": "MIT",
   "contributors": [
-    "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
-    "Aymeric Beaumet <aymeric@beaumet.me>",
     "Joseph Rossi <musicist288@gmail.com>",
+    "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
     "Sven Ambros <thered87@googlemail.com>",
     "Janusz Jablonski <januszjablonski.pl@gmail.com>",
-    "Ignacio Rivas <rivasign@gmail.com>"
+    "Ignacio Rivas <rivasign@gmail.com>",
+    "Aymeric Beaumet <aymeric@beaumet.me>"
   ]
 }
